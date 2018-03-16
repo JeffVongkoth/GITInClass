@@ -1,0 +1,53 @@
+h1 {
+    text-align: center;
+}
+h2{
+    color:magenta
+}
+
+p.paragreen{
+    color:green
+}
+p.parared{
+    color:red
+}
+
+p.parablue{
+    color:blue
+}
+
+p.styledFont{
+    color:green
+}
+
+p.fontbig{
+    font-size: 50px;
+}
+
+p.fontsmall{
+    font-size: 10px;
+}
+
+p.centered{
+    text-align: center
+}
+
+p.thick{
+    font-weight: bold;
+}
+
+p.font{
+        font-family: Arial, Helvetica, sans-serif;
+}
+
+p.multi{
+    color:orange;
+    font-size:20px;
+    font-weight: bold;
+}
+
+#styledImage{
+    border-width: thick;
+    border-style: solid;
+    border-color: mediumblue
+}
